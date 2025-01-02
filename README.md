@@ -15,3 +15,4 @@ The Vrinda Store 2022 Annual Sales Analysis uncovers key insights from sales dat
 
 ## Project 4 : Call Centre Analysis Dashboard
 An interactive Call Center Performance Dashboard in Excel provides insights into 2023 operations, utilizing Power Pivot, DAX, and data modeling. It visualizes KPIs, trends, and performance metrics through dynamic charts and slicers, enabling real-time analysis and decision-making for optimized call center efficiency.
+<a href = "https://github.com/Sahil302002/Call_Center_Analysis"> Call_Centre_Analysis_Dashboard</a>
