@@ -28,3 +28,6 @@ An interactive Call Center Performance Dashboard in Excel provides insights into
 
 ![Call Center Dashboard](https://github.com/user-attachments/assets/72cd8121-ed1a-46ac-b36d-2c482380e021)
 
+## Project 5 : 
+The Retail Sales Dashboard project utilizes Power Query for data cleaning, Power Pivot for data modeling, and DAX for calculations. It visualizes key metrics like sales, profit, and shipping costs, offering insights into trends, customer satisfaction, and operational efficiency to support data-driven decisions and growth.
+
